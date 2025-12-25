@@ -1,0 +1,111 @@
+2025-12-25 00:23:32.954 | INFO     | __main__:train_from_dataset:37 - Starting training process...
+2025-12-25 00:23:32.955 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:23:32.955 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:23:32.962 | INFO     | __main__:train_from_dataset:59 - Processing images for Messaoudi Belkacem
+2025-12-25 00:23:35.033 | WARNING  | __main__:train_from_dataset:93 - No face detected in c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:23:40.662 | WARNING  | __main__:train_from_dataset:93 - No face detected in c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:23:44.217 | INFO     | __main__:train_from_dataset:116 - Encoded 18 faces for Messaoudi Belkacem
+2025-12-25 00:23:44.218 | INFO     | __main__:train_from_dataset:59 - Processing images for Messaoudi Mohamad Monsaf
+2025-12-25 00:23:56.237 | INFO     | __main__:train_from_dataset:116 - Encoded 20 faces for Messaoudi Mohamad Monsaf
+2025-12-25 00:23:56.239 | INFO     | models.face_encoder:save_encodings:103 - Saved 38 face encodings
+2025-12-25 00:23:56.239 | INFO     | __main__:train_from_dataset:121 - Training complete!  Total faces encoded: 38
+2025-12-25 00:23:56.239 | WARNING  | __main__:train_from_dataset:124 - Failed to process 2 images:
+2025-12-25 00:23:56.240 | WARNING  | __main__:train_from_dataset:126 -   - c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:23:56.240 | WARNING  | __main__:train_from_dataset:126 -   - c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:24:38.624 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:24:38.624 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:24:38.635 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:24:38.635 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:24:38.695 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:24:38.695 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:24:39.150 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:24:40.407 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:24:59.013 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:24:59.014 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:24:59.015 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:24:59.015 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:24:59.049 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:24:59.051 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:24:59.423 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:25:00.636 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:27:38.790 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:27:38.791 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:27:38.791 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:27:38.792 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:27:38.846 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:27:38.849 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:27:39.293 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:27:40.367 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:28:16.530 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:28:16.530 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:28:16.531 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:28:16.531 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:28:16.549 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:28:16.549 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:28:16.967 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:28:18.045 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:29:02.810 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:29:02.810 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:29:02.811 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:29:02.811 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:29:02.834 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:29:02.834 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:29:03.257 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:29:04.590 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:44:19.591 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:44:19.592 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:44:19.593 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:44:19.593 | INFO     | models.face_recognizer:__init__:21 - Face recognizer initialized
+2025-12-25 00:44:19.628 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:44:19.628 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:44:20.252 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:44:22.117 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:45:15.904 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:45:15.904 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:45:15.905 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:45:15.905 | INFO     | models.face_recognizer:__init__:22 - Face recognizer initialized
+2025-12-25 00:45:15.923 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:45:15.924 | INFO     | __main__:__init__:36 - Initialized real-time recognition with source: 0
+2025-12-25 00:45:16.355 | INFO     | __main__:start:51 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:46:29.420 | INFO     | __main__:start:104 - Quit command received
+2025-12-25 00:46:29.762 | INFO     | __main__:start:116 - Real-time recognition stopped
+2025-12-25 00:49:23.921 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:49:23.921 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:49:23.922 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:49:23.922 | INFO     | models.face_recognizer:__init__:22 - Face recognizer initialized
+2025-12-25 00:49:23.943 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:49:23.943 | INFO     | __main__:__init__:39 - Initialized real-time recognition with source: 0
+2025-12-25 00:49:24.351 | INFO     | __main__:start:54 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:49:33.790 | INFO     | __main__:start:107 - Quit command received
+2025-12-25 00:49:34.110 | INFO     | __main__:start:119 - Real-time recognition stopped
+2025-12-25 00:50:34.504 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:50:34.504 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:50:34.505 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:50:34.505 | INFO     | models.face_recognizer:__init__:22 - Face recognizer initialized
+2025-12-25 00:50:34.529 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:50:34.529 | INFO     | __main__:__init__:39 - Initialized real-time recognition with source: 0
+2025-12-25 00:50:34.938 | INFO     | __main__:start:54 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:50:36.380 | INFO     | __main__:start:119 - Real-time recognition stopped
+2025-12-25 00:50:52.366 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:50:52.366 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:50:52.367 | INFO     | models.face_encoder:load_encodings:81 - Loaded 38 face encodings
+2025-12-25 00:50:52.367 | INFO     | models.face_recognizer:__init__:22 - Face recognizer initialized
+2025-12-25 00:50:52.392 | INFO     | utils.database:__init__:30 - Database initialized
+2025-12-25 00:50:52.393 | INFO     | __main__:__init__:39 - Initialized real-time recognition with source: 0
+2025-12-25 00:50:52.708 | INFO     | __main__:start:54 - Starting real-time face recognition.  Press 'q' to quit.
+2025-12-25 00:52:50.963 | INFO     | __main__:start:107 - Quit command received
+2025-12-25 00:52:51.279 | INFO     | __main__:start:119 - Real-time recognition stopped
+2025-12-25 00:53:49.650 | INFO     | __main__:train_from_dataset:37 - Starting training process...
+2025-12-25 00:53:49.650 | INFO     | models.face_detector:__init__:68 - Face detector initialized with method: hog
+2025-12-25 00:53:49.651 | INFO     | models.face_encoder:__init__:18 - Face encoder initialized
+2025-12-25 00:53:49.657 | INFO     | __main__:train_from_dataset:59 - Processing images for Messaoudi Belkacem
+2025-12-25 00:53:51.595 | WARNING  | __main__:train_from_dataset:93 - No face detected in c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:53:56.955 | WARNING  | __main__:train_from_dataset:93 - No face detected in c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:54:00.507 | INFO     | __main__:train_from_dataset:116 - Encoded 18 faces for Messaoudi Belkacem
+2025-12-25 00:54:00.508 | INFO     | __main__:train_from_dataset:59 - Processing images for Messaoudi Mohamad Monsaf
+2025-12-25 00:54:11.904 | INFO     | __main__:train_from_dataset:116 - Encoded 20 faces for Messaoudi Mohamad Monsaf
+2025-12-25 00:54:11.906 | INFO     | models.face_encoder:save_encodings:103 - Saved 38 face encodings
+2025-12-25 00:54:11.906 | INFO     | __main__:train_from_dataset:121 - Training complete!  Total faces encoded: 38
+2025-12-25 00:54:11.906 | WARNING  | __main__:train_from_dataset:124 - Failed to process 2 images:
+2025-12-25 00:54:11.907 | WARNING  | __main__:train_from_dataset:126 -   - c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg
+2025-12-25 00:54:11.907 | WARNING  | __main__:train_from_dataset:126 -   - c:\Users\HP\workspace\real-time-face-recognition\data\faces\Messaoudi Belkacem\Messaoudi Belkacem_3_1766618396637.jpg

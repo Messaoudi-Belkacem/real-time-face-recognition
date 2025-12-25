@@ -1,0 +1,38 @@
+# Core dependencies
+opencv-python
+opencv-contrib-python
+numpy
+face-recognition
+dlib
+pillow
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Web Framework
+flask
+flask-cors
+flask-socketio
+
+# Database
+sqlalchemy
+
+# Utilities
+python-dotenv
+imutils
+scikit-learn
+matplotlib
+seaborn
+
+# Testing
+pytest
+pytest-cov
+
+# Logging
+loguru
+
+# Performance
+numba
